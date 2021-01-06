@@ -7,3 +7,5 @@
 #ENJOY!
 
 ![image](social_distancing_app_preview.jpg)
+
+![video](video_data/out_video/processed.avi)
